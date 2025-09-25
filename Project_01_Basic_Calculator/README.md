@@ -1,51 +1,37 @@
- **Project 01: Basic Calculator**
+ Project 01: Basic Calculator
+Overview
 
-
-
-
-\## Overview
-
-This is a Graphical Calculator built using **Python Tkinter**.  
-
+This is a Graphical Calculator built using Python Tkinter.
 It supports basic arithmetic operations and provides a user-friendly GUI similar to standard calculator apps.
 
+Features
 
+Addition, Subtraction, Multiplication, Division
 
+Decimal operations
 
+Clear (C) button to reset
 
+Equals (=) button to calculate result
 
-\## Features
+Error handling for invalid inputs
 
-\- Addition, Subtraction, Multiplication, Division
+How to Run
 
-\- Decimal operations
+Clone or download this repository.
 
-\- Clear (`C`) button to reset
+Open the folder in PyCharm or any Python IDE.
 
-\- Equals (`=`) button to calculate result
+Make sure you have Python 3.x installed.
 
-\- Error handling for invalid inputs
-
-
-
-
-
-
-\## How to Run
-
-1\. Clone or download this repository.
-
-2\. Open the folder in \*\*PyCharm\*\* or any Python IDE.
-
-3\. Make sure you have \*\*Python 3.x\*\* installed.
-
-4\. Run the file:
+Run the file:
 
 
 
 ```bash
 
 python calculator.py
+
 
 
 
