@@ -2,11 +2,13 @@
 
 
 
+
 \## Overview
 
 This is a Graphical Calculator built using **Python Tkinter**.  
 
 It supports basic arithmetic operations and provides a user-friendly GUI similar to standard calculator apps.
+
 
 
 
@@ -28,6 +30,7 @@ It supports basic arithmetic operations and provides a user-friendly GUI similar
 
 
 
+
 \## How to Run
 
 1\. Clone or download this repository.
@@ -43,6 +46,7 @@ It supports basic arithmetic operations and provides a user-friendly GUI similar
 ```bash
 
 python calculator.py
+
 
 
 
